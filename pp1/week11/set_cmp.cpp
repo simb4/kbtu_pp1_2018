@@ -41,6 +41,7 @@ int main() {
 	s.insert("Aaa");
 	s.insert("Bb");
 
+
 	/*
 		a = "fit"
 		b = "Aaa"
